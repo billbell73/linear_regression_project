@@ -1,4 +1,6 @@
-## Regression Module Project - Predicting prices of used Porsche 911 sports cars listed on autotrader.co.uk
+# Regression Module Project 
+
+## Predicting prices of used Porsche 911 sports cars listed on autotrader.co.uk
 
 ### Abstract
 
@@ -11,7 +13,7 @@ The motivation behind this project was that I thought it would be an interesting
 ### Data
 * When I performed the scraping on autotrader.co.uk on 10/26/21, there were 1742 Porsche 911 cars listed on autotrader.co.uk
 * The listings vary in terms of how much data they contain. Some listings have a lot of potential features but a significant number have only the following basic information: 
-  * Mileage, Engine size, Number of doors, Number of cylinders, Top speed, 0-6Xmph in seconds, Engine power in bhp, registration year, gearbox (e.g. ‘Manual’), fuel type (e.g. ‘Petrol’), body type (e.g. ‘Coupe’)
+  * Mileage, engine size, number of doors, number of cylinders, top speed, 0-6Xmph in seconds, engine power in bhp, registration year, gearbox (e.g. ‘Manual’), fuel type (e.g. ‘Petrol’), body type (e.g. ‘Coupe’)
 * There were 1560 cars that had scrapable data for all of the above eleven features.
 
 ### Algorithms
